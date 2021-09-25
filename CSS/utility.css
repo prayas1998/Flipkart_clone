@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 0px 5px;
+    height: 26px;
+    width: 60px;
+    border-radius: 5px;
+    background: var(--main-bg-color);
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+    cursor: pointer;
+    font-weight: 400;
+}
+.green{
+    color: darkgreen;
+}
+.text-center{
+    text-align: center;
+}
+
+.my-1{
+    margin: 5px 0px;
+}
